@@ -33,6 +33,8 @@ I'm a Software Engineer specializing in building robust and scalable backend sys
 <br>
 <div align="center">
 <!-- This snake animation is a great visual representation of your contribution activity! -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlinggacr&show_icons=true&theme=dark&hide=prs,issues,contribs&show=reviews&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=percentile)](https://github.com/akin01/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akin01layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=00000000)](https://github.com/akin01/github-readme-stats)
 <img src="https://github.com/Akin01/Akin01/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 📫 Let's Connect!
