@@ -1,28 +1,42 @@
-Hi there, I'm Akin! 👋
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAkin01%26count_private%3Dtrue%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="Akin's GitHub Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAkin01%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<a href="https://github.com/Akin01">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D30%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%252C%2BI%27m%2BAkin%2B%25F0%259F%2591%258B%3BBackend%2B%2526%2BData%2BEngineer%3BAI%2B%2526%2BMachine%2BLearning%2BEnthusiast%3BBuilding%2Bintelligent%2Bsystems%2Bfrom%2Bthe%2Bground%2Bup." alt="Typing SVG" />
+</a>
 </div>
-I'm a passionate developer, always exploring new technologies and building cool things.
- * 🔭   I’m currently working on a new project using React and Node.js.
- * 🌱   I’m currently learning about GraphQL and serverless architecture.
- * 👯   I’m looking to collaborate on open source projects that make a difference.
- * 🤔   I’m looking for help with advanced testing strategies.
- * 💬   Ask me about web development, JavaScript, or anything tech-related!
- * 📫   How to reach me: LinkedIn | Twitter
- * 😄   Pronouns: He/Him
- * ⚡   Fun fact: I can solve a Rubik's cube in under a minute!
+<br>
+I'm a Software Engineer specializing in building robust and scalable backend systems. My passion lies at the intersection of data engineering and artificial intelligence, where I enjoy designing data pipelines and implementing machine learning models. I'm also comfortable building intuitive user interfaces with React.
+🚀 What I'm Currently Focused On
+ * 🔭   I’m currently building a distributed data processing pipeline using Kafka and Spark.
+ * 🌱   I’m learning about MLOps best practices for deploying and monitoring models in production.
+ * 👯   I’m looking to collaborate on open-source projects related to natural language processing (NLP) or large-scale data systems.
+ * 💬   Ask me about system design, microservices architecture, data engineering, or Python.
 🛠️ My Tech Stack
 <p align="center">
+<!-- Icons are grouped by specialty to make your expertise clear -->
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,mysql,figma,git" />
+<!-- Backend -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,go,nodejs,express,docker,kubernetes,nginx,git" /><br>
+<!-- Data & AI -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpytorch,tensorflow,scikitlearn,pandas,apachespark,kafka,d3js" /><br>
+<!-- Database & Frontend -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgresql,mongodb,redis,react,ts,tailwind" />
 </a>
 </p>
-📊 My GitHub Activity
-<a href="https://github.com/Akin01">
-<img alt="Akin's Activity Graph" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAkin01%26bg_color%3D0d1117%26color%3D79ff97%26line%3Dffffff%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" />
-</a>
+📊 My GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAkin01%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Akin's GitHub Stats" width="49%"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAkin01%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" width="49%"/>
+</div>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAkin01%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+<!-- This snake animation is a great visual representation of your contribution activity! -->
+<img src="https://www.google.com/search?q=https://github.com/Akin01/Akin01/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+📫 Let's Connect!
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAkin01%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile views" />
+<a href="https://www.linkedin.com/in/ainulyaqin1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="https://x.com/ai_nulyaqin"><img src="https://www.google.com/search?q=https://img.shields.io/badge/twitter-%25231DA1F2.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/></a>
 </p>
